@@ -1,4 +1,14 @@
 .Dictionary {
     align-items: center;
+    max-width: 900px;
+    padding: 10px 300px 10px 300px;
     
+}
+
+.Dictionary section {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.7);
+    margin: 20px 0;
 }
