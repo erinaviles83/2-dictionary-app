@@ -2,14 +2,13 @@
     margin: 20px 0; 
 }
 
-
 .Phonetic a {
     border: 1px solid #ddd;
     text-decoration: none;
-    font-size: 13px;
-    padding: 10px 20px;
+    font-size: 11px;
+    padding: 5px 10px;
     margin-right: 10px;
-    border-radius: 20px;
+    border-radius: 15px;
     transition: all 150ms ease-in-out;
 }
 

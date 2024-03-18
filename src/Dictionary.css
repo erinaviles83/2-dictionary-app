@@ -1,14 +1,30 @@
 .Dictionary {
-    align-items: center;
-    max-width: 900px;
-    padding: 10px 300px 10px 300px;
-    
+    max-width: 960px;
 }
 
 .Dictionary section {
     background: white;
-    padding: 30px;
+    padding: 15px;
     border-radius: 10px;
     box-shadow: 3px 3px 3px rgba(0,0,0,0.7);
     margin: 20px 0;
 }
+
+.Dictionary input {
+    width: 75%;
+    padding: 6px 4px;
+    border: 2px solid #ddd;
+  }
+
+  .Dictionary-logo {
+    max-width: 350px;
+    display: block;
+    margin: 30px auto;
+    opacity: .8;
+  }
+
+  .Dictionary .hint {
+    font-size: 13px;
+    margin-top: 8px;
+  }
+  
